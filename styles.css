@@ -991,7 +991,7 @@ a {
 
 /* ===== CTA / CONTACT ===== */
 .cta {
-  padding: 60px 0 50px;
+  padding: 0;
   background: var(--white);
   position: relative;
   overflow: hidden;
@@ -1022,8 +1022,7 @@ a {
 
 .cta-vector {
   display: block;
-  height: 85%;
-  max-height: 750px;
+  height: 100%;
   width: auto;
 }
 
@@ -1037,7 +1036,7 @@ a {
   max-width: 954px;
   margin: 0 auto;
   background: radial-gradient(ellipse 80% 70% at center, var(--white) 50%, rgba(255,255,255,0.9) 70%, transparent 100%);
-  padding: 0 20px;
+  padding: 50px 20px;
 }
 
 .cta-heading {
@@ -1507,7 +1506,7 @@ a {
 
   /* CTA */
   .cta {
-    padding: 60px 0 50px;
+    padding: 0;
   }
 
   .cta-bars {
