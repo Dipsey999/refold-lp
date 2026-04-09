@@ -991,7 +991,7 @@ a {
 
 /* ===== CTA / CONTACT ===== */
 .cta {
-  padding: 94px 0 80px;
+  padding: 60px 0 50px;
   background: var(--white);
   position: relative;
   overflow: hidden;
@@ -1046,15 +1046,15 @@ a {
   font-weight: 400;
   letter-spacing: -2.16px;
   color: var(--dark);
-  margin-bottom: 28px;
-  line-height: 95.4px;
+  margin-bottom: 20px;
+  line-height: 1.2;
 }
 
 .cta-subtitle {
   font-size: 25px;
   color: var(--gray-text);
   line-height: 32.6px;
-  margin-bottom: 50px;
+  margin-bottom: 35px;
 }
 
 .cta-form {
